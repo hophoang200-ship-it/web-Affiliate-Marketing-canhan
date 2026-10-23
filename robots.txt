@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Thêm dòng sau khi có tên miền thật:
+# Sitemap: https://TEN-MIEN-CUA-BAN/sitemap.xml
